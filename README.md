@@ -1,7 +1,9 @@
-# Earth_Engine_Scripts
+# SnowCloudMetrics-Legacy
 
 This repository preserves the legacy Google Earth Engine scripts that were used to build
 the SnowCloudMetrics workflow and the supporting app interface.
+
+Website: https://www.snowcloudmetrics.app/
 
 It is intentionally lightweight and archival:
 
