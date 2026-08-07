@@ -16,9 +16,11 @@ It is intentionally lightweight and archival:
 
 ## Recommended starting points
 
-1. Read `docs/version-history.md`
-2. Read `docs/methodology.md`
-3. Read `docs/app-notes.md`
+1. Read `app/README.md` for the legacy website/app backend script
+2. Read `archive/v1/README.md` for the publication-era workflow
+3. Read `docs/version-history.md`
+4. Read `docs/methodology.md`
+5. Read `docs/app-notes.md`
 
 ## Notes
 
