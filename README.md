@@ -1,11 +1,27 @@
-## Earth_Engine_Scripts
-A repository for the SnowCloudMetrics javascript-based scripts that can be used with the Google Earth Engine web-based code editor.
+# Earth_Engine_Scripts
 
-### snow_metrics_2020_toAsset.txt
-This file is the primary script that generates the SCF and SDD metrics. 
-Simply copy and paste it into the Google Earth Engine code editor as a new script in order to create the global metrics and export to your own asset folder.
-There is extensive commenting that highlights the different thresholds and variables for user control.
+This repository preserves the legacy Google Earth Engine scripts that were used to build
+the SnowCloudMetrics workflow and the supporting app interface.
 
-### SnowCloudMetrics_app_ui.txt
-This file is the back-end, user interface that is used for the www.SnowCloudMetrics.app website.
-Simply copy and paste it into the Google Earth Engine code editor as a script.
+It is intentionally lightweight and archival:
+
+- `archive/v1/snow_metrics_2020_toAsset.js` is the original global SnowCloudMetrics workflow.
+- `app/snowcloudmetrics_app_ui.js` is the Earth Engine script that supported the app UI/backend.
+
+## What this repo is for
+
+- Preserve the original Earth Engine source code in a readable form
+- Document how the scripts were used
+- Keep the legacy implementation separate from the newer canonical `snowcloudmetrics` repository
+
+## Recommended starting points
+
+1. Read `docs/version-history.md`
+2. Read `docs/methodology.md`
+3. Read `docs/app-notes.md`
+
+## Notes
+
+- These scripts are designed for the Google Earth Engine code editor.
+- They depend on Earth Engine assets and collections that may no longer be public.
+- The scripts are preserved for historical reference and reproducibility.

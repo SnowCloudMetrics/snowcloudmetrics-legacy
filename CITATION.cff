@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "If you use this legacy SnowCloudMetrics repository, please cite the associated publication and repository."
+title: "Earth_Engine_Scripts"
+version: "legacy"
+authors:
+  - family-names: Crumley
+    given-names: Ryan L.
+  - family-names: Mar
+    given-names: Eugene
+repository-code: "https://github.com/SnowCloudMetrics/Earth_Engine_Scripts"
+keywords:
+  - Google Earth Engine
+  - MODIS
+  - SnowCloudMetrics
+  - snow cover fraction
+  - snow disappearance date
