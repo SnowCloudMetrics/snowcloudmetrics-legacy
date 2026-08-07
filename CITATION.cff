@@ -1,17 +1,17 @@
 cff-version: 1.2.0
-message: "If you use SnowCloudMetrics, please cite the publication associated with the archived v1 workflow."
+message: "If you use SnowCloudMetrics, please cite the publication below."
 title: "SnowCloudMetrics"
 authors:
   - family-names: Crumley
     given-names: Ryan L.
+  - family-names: Palomaki
+    given-names: Ross T.
+  - family-names: Nolin
+    given-names: Anne W.
+  - family-names: Sproles
+    given-names: Eric A.
   - family-names: Mar
-    given-names: Eugene
-  - family-names: Ross T.
-    given-names: Palomaki
-  - family-names: Anne W.
-    given-names: Nolin 
-  - family-names: Eric A.
-    given-names: Sproles  
+    given-names: Eugene J.
 date-released: 2026-07-08
 repository-code: "https://github.com/ryanlcrumley/SnowCloudMetrics"
 keywords:
@@ -23,15 +23,22 @@ keywords:
 license: "MIT"
 references:
   - type: article
-    title: "A Study of Seasonal Snow Cover Variability in the Northern Hemisphere Using MODIS"
+    title: "SnowCloudMetrics: Snow Information for Everyone"
     authors:
       - family-names: Crumley
         given-names: Ryan L.
+      - family-names: Palomaki
+        given-names: Ross T.
+      - family-names: Nolin
+        given-names: Anne W.
+      - family-names: Sproles
+        given-names: Eric A.
       - family-names: Mar
-        given-names: Eugene
+        given-names: Eugene J.
     year: 2020
     journal: "Remote Sensing"
     volume: 12
     issue: 20
     pages: "3341"
-    url: "https://www.mdpi.com/2072-4292/12/20/3341"
+    doi: "10.3390/rs12203341"
+    url: "https://doi.org/10.3390/rs12203341"
