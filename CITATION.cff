@@ -1,16 +1,37 @@
 cff-version: 1.2.0
-message: "If you use this legacy SnowCloudMetrics repository, please cite the associated publication and repository."
-title: "Earth_Engine_Scripts"
-version: "legacy"
+message: "If you use SnowCloudMetrics, please cite the publication associated with the archived v1 workflow."
+title: "SnowCloudMetrics"
 authors:
   - family-names: Crumley
     given-names: Ryan L.
   - family-names: Mar
     given-names: Eugene
-repository-code: "https://github.com/SnowCloudMetrics/Earth_Engine_Scripts"
+  - family-names: Ross T.
+    given-names: Palomaki
+  - family-names: Anne W.
+    given-names: Nolin 
+  - family-names: Eric A.
+    given-names: Sproles  
+date-released: 2026-07-08
+repository-code: "https://github.com/ryanlcrumley/SnowCloudMetrics"
 keywords:
   - Google Earth Engine
   - MODIS
-  - SnowCloudMetrics
   - snow cover fraction
   - snow disappearance date
+  - cryosphere
+license: "MIT"
+references:
+  - type: article
+    title: "A Study of Seasonal Snow Cover Variability in the Northern Hemisphere Using MODIS"
+    authors:
+      - family-names: Crumley
+        given-names: Ryan L.
+      - family-names: Mar
+        given-names: Eugene
+    year: 2020
+    journal: "Remote Sensing"
+    volume: 12
+    issue: 20
+    pages: "3341"
+    url: "https://www.mdpi.com/2072-4292/12/20/3341"
